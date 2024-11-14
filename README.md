@@ -9,3 +9,5 @@ Este projecto permite ver a hora em tempo real dependendo do fuso horario e da h
 Foi usado também a ID Visual Studio Code para o desenvolviemtno do mesmo.
 <h3>COMO USAR </h3>
 Para utlizar este projecto basta dar duplo click que ele abri direito no navegador e apresenta a hora automaticamente.
+<h3>ILUSTRAÇÃO DO PROJECTO</h3>
+![Execução da aplicação](C:\Users\PauloMandeleSeliuwa\Documents\My world\Projectos\2024\Ready\Digital clock\1.png)
