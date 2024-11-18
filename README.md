@@ -10,4 +10,4 @@ Foi usado também a ID Visual Studio Code para o desenvolviemtno do mesmo.
 <h3>COMO USAR </h3>
 Para utlizar este projecto basta dar duplo click que ele abri direito no navegador e apresenta a hora automaticamente.
 <h3>ILUSTRAÇÃO DO PROJECTO</h3>
-![1](https://github.com/user-attachments/assets/1f4baebe-6f5a-4300-ae4a-6fce3d86b973)
+<img src="https://github.com/user-attachments/assets/3323eb98-4922-42cb-bc02-885b0c526229">
